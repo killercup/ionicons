@@ -1,4 +1,4 @@
-/*
+/*!
   Ionicons, v1.3.0
   Created by Ben Sperry for the Ionic Framework, http://ionicons.com/
   https://twitter.com/helloimben  https://twitter.com/ionicframework
@@ -475,10 +475,10 @@
 .ion-loading-c,
 .ion-loading-d,
 .ion-refreshing {
-  -webkit-animation: spin 0.8s infinite linear;
-  -moz-animation: spin 0.8s infinite linear;
-  -o-animation: spin 0.8s infinite linear;
-  animation: spin 0.8s infinite linear; }
+  -webkit-animation: spin .8s infinite linear;
+  -moz-animation: spin .8s infinite linear;
+  -o-animation: spin .8s infinite linear;
+  animation: spin .8s infinite linear; }
 
 @-moz-keyframes spin {
   0% {
